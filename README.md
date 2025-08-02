@@ -1,6 +1,8 @@
 ﻿# Solar Panel Positioning System with GPS | Arduino-Based
 
 ## Overview
+> The entire system is simulated in Proteus Design Suite, including GPS, servos, LCD, and Arduino.
+
 ![enter image description here](#) 
 
 This project is a **solar tracking system** that uses **GPS data** to calculate the real-time position of the sun (azimuth and elevation) and orients a solar panel accordingly using **servo motors**. It is built with an **Arduino Uno**, integrates a **GPS module**, **LCD display**, and uses **LEDs for status indicators**.
