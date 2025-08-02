@@ -109,4 +109,5 @@ Some of the 3D models used in this project were derived from the following open-
 ----
 **Author:** Youness El Kabtane  
 **Version:** 1.0.0
+
 **Made with 💗**
