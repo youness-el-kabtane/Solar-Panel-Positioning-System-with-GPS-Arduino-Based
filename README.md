@@ -3,11 +3,13 @@
 ## Overview
 > The entire system is simulated in Proteus Design Suite, including GPS, servos, LCD, and Arduino.
 
-![enter image description here](https://github.com/youness-el-kabtane/Solar-Panel-Positioning-System-with-GPS-Arduino-Based/blob/91e7d0451814cadda96cdbafb89b83d9f8f5630d/image/image1.png) 
+![Simulation](https://github.com/youness-el-kabtane/Solar-Panel-Positioning-System-with-GPS-Arduino-Based/blob/91e7d0451814cadda96cdbafb89b83d9f8f5630d/image/image1.png) 
 
 This project is a **solar tracking system** that uses **GPS data** to calculate the real-time position of the sun (azimuth and elevation) and orients a solar panel accordingly using **servo motors**. It is built with an **Arduino Uno**, integrates a **GPS module**, **LCD display**, and uses **LEDs for status indicators**.
 
 At the core of this system is a simplified algorithm based on the **[Solar Position Algorithm (SPA)](https://midcdmz.nrel.gov/spa/)** to compute the sun's position from time and location data.
+
+![Simulation](https://github.com/youness-el-kabtane/Solar-Panel-Positioning-System-with-GPS-Arduino-Based/blob/35853b0ba3b8db147bef0a6d393176bcba101068/image/image2.png) 
 
 ## Components Used
 | Component          | Description                               
@@ -20,7 +22,8 @@ At the core of this system is a simplified algorithm based on the **[Solar Posit
 | External Power     | For servos and GPS                        
 
 ## Schematic 
-![enter image description here](#) 
+
+![Schematic](https://github.com/youness-el-kabtane/Solar-Panel-Positioning-System-with-GPS-Arduino-Based/blob/35853b0ba3b8db147bef0a6d393176bcba101068/image/image5.png) 
 
 ## How It Works
 This system tracks the sun using real-time location and time data from a GPS module. 
@@ -38,7 +41,7 @@ This system tracks the sun using real-time location and time data from a GPS mod
     
     > This information is parsed using the `TinyGPSPlus` library and passed to the sun position algorithm.
 
-![enter image description here](#) 
+![GPS Monitor](https://github.com/youness-el-kabtane/Solar-Panel-Positioning-System-with-GPS-Arduino-Based/blob/35853b0ba3b8db147bef0a6d393176bcba101068/image/image3.png) 
 
 2.  ### Data Processing with Arduino
     
@@ -48,7 +51,7 @@ This system tracks the sun using real-time location and time data from a GPS mod
         
     -   It then passes this data to the custom **Sun Position Algorithm** written in C++ (`spa.cpp`).
 
-![enter image description here](#) 
+![Serial Monitor](https://github.com/youness-el-kabtane/Solar-Panel-Positioning-System-with-GPS-Arduino-Based/blob/35853b0ba3b8db147bef0a6d393176bcba101068/image/image4.png) 
         
 3.  ### Sun Position Algorithm (SPA)
     
