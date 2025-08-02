@@ -107,7 +107,8 @@ Some of the 3D models used in this project were derived from the following open-
 > These models were copied and reused in accordance with the license terms, which require proper attribution. Full credit is given to the original designer, **Michaelo**, for sharing these useful resources with the maker community.
 
 ----
-**Author:** Youness El Kabtane  
+**Author:** Youness El Kabtane
+**Website:** [younesselkabtane](https://sites.google.com/view/younesselkabtane/home?authuser=1)
 **Version:** 1.0.0
 
 **Made with 💗**
