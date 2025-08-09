@@ -334,7 +334,7 @@ elevationServo.write(constrain(elevationServoAngle, 0, 180));
 #### 6. LCD and Serial Output
 ---
 
-![Serial Monitor](#)
+![Serial Monitor](https://github.com/youness-el-kabtane/Solar-Panel-Positioning-System-with-GPS-Arduino-Based/blob/f8e7068e3b8a31004b81e8aae53a82b214404c7b/image/image4.png)
 
 -   Displays latitude, longitude, UTC time, azimuth, and elevation on the LCD.
 -   Prints the same info to the serial monitor.
