@@ -50,7 +50,7 @@ This Arduino-based Solar Panel Positioning System utilizes GPS coordinates and a
 ### Understanding the NMEA sentence
 ---
 
-![NMEA sentence](#)
+![NMEA sentence](https://github.com/youness-el-kabtane/Solar-Panel-Positioning-System-with-GPS-Arduino-Based/blob/0501c003eff85751c5247bb7c119e1f0e6afe96d/image/image3.png)
 
 Each line starts with a **$** and is a specific **NMEA sentence**. You have two types here:
 
