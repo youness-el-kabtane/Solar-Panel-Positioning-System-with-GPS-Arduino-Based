@@ -8,7 +8,7 @@ This Arduino-based Solar Panel Positioning System utilizes GPS coordinates and a
 
 ## Components List
 
-![Components](#)
+![Components](https://github.com/youness-el-kabtane/Solar-Panel-Positioning-System-with-GPS-Arduino-Based/blob/6c9f4e737e9fb01d0e61fa89976a28c102e209e4/image/image2.png)
 
 **Display:**
 
