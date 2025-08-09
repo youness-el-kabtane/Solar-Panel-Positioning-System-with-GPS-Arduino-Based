@@ -2,7 +2,7 @@
 
 > The entire system is simulated in Proteus Design Suite, including GPS, servos, LCD, and Arduino.
 
-![Simulation](#)
+![Simulation](https://github.com/youness-el-kabtane/Solar-Panel-Positioning-System-with-GPS-Arduino-Based/blob/b9f9d9e6f24a8534f1aded9cec29575aba3051ad/image/image1.png)
 
 This Arduino-based Solar Panel Positioning System utilizes GPS coordinates and a streamlined Solar Position Algorithm (SPA) to automatically track the sun's movement throughout the day. The system employs two servo motors mounted on a 3D-printed mechanical frame to precisely control both azimuth and elevation angles, ensuring optimal solar panel orientation for maximum energy capture. By combining real-time GPS positioning data with efficient sun-tracking calculations, this automated dual-axis tracker significantly improves solar panel efficiency compared to fixed installations.
 
