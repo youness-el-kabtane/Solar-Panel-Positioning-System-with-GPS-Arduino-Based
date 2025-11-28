@@ -365,7 +365,7 @@ Some of the 3D models used in this project were derived from the following open-
 ---
 **Author:** Youness El Kabtane
 
-**Website:** [younesselkabtane](https://sites.google.com/view/younesselkabtane/home?authuser=1)
+**Website:** [younesselkabtane](https://youness-el-kabtane.github.io/site/)
 
 **Version:** 1.0.0
 
